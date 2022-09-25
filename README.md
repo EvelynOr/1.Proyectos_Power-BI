@@ -28,7 +28,7 @@
      
 3.2 Fatal Police Shootings
 
-    Monthly Data Challenge by Data In Motion, LLC. Data from The Washington Post
+Monthly Data Challenge by Data In Motion, LLC. Data from The Washington Post
    
    https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
   

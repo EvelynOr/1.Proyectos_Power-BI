@@ -19,3 +19,15 @@
    https://blog.enterprisedna.co/creating-a-consumer-goods-sales-report-in-power-bi/
 
    
+## 3. Seguridad
+
+3.1 Hechos Delictivos en Guatemala 2017 - 2021
+
+     Datos del https://www.ine.gob.gt/
+     
+3.2 Fatal Police Shootings
+
+    Monthly Data Challenge by Data In Motion, LLC anda data from 
+    
+    https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
+

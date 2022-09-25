@@ -1,27 +1,27 @@
-# Proyectos en Power BI
+# Proyectos en Power BI ✨
 
 Se enlistan los reportes clasificados por tema. Cada uno de los archivos están enumerados y aparecen en el mismo orden en el área de files.
 
 ## 1. Comida
 
-1.1 Maven Restaurant Challenge
+1.1 Maven Restaurant Challenge 🌮🫓🌯
 
    https://www.mavenanalytics.io/blog/maven-restaurant-challenge
 
-1.2 Pie Bakery Sales Analysis. Onyx Data DataDNA-Challenge, March 2022. Pi(e) Day
+1.2 Pie Bakery Sales Analysis. Onyx Data DataDNA-Challenge, March 2022. Pi(e) Day 🥧
 
    https://expert-crafter-625.ck.page/69165373cc
 
 ## 2. Forcasting
 
-2.1 Forcasting de Lacteos y Verduras, utilizando el método de suavizado exponencial
+2.1 Forcasting de Lacteos y Verduras, utilizando el método de suavizado exponencial 🥦🥑🥛
 
-2.2 Consumer Demand Warehouse
+2.2 Consumer Demand Warehouse ⛏️🪚🔩
 
    https://blog.enterprisedna.co/creating-a-consumer-goods-sales-report-in-power-bi/
 
    
-## 3. Seguridad
+## 3. Seguridad 👮🏻‍♂️ 🕵🏻‍♂️
 
 3.1 Hechos Delictivos en Guatemala 2017 - 2021, datos del INE
 
@@ -35,7 +35,7 @@ Monthly Data Challenge by Data In Motion, LLC. Data from The Washington Post
    https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
   
 
-## 4. Recursos Humanos
+## 4. Recursos Humanos 👨‍💻👩🏻‍💼 🗂️
 
 4.1 Algunos Indicadores de Recursos Humanos Parte I
 
@@ -48,7 +48,7 @@ https://github.com/itsmecevi/human-resources-sample
 4.4 Employee Turn Over
 
 
-## 5. Medicina / Salud
+## 5. Medicina / Salud 😷👩🏻‍🦽🚑 
 
 5.1 Encuesta de costos hospitalarios realizada por la Agencia de Atención Médica de EE. UU.
 
@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/ravichaubey1506/healthcare-cost
 
 5.3 Healthcare Cost and Utilization in Wisconsin Hospitals
 
-## 6. Finanzas
+## 6. Finanzas 📝🗓️📊🧾
 
 6.1 Reporte de Beneficios
 

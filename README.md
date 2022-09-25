@@ -56,3 +56,13 @@ https://www.kaggle.com/datasets/ravichaubey1506/healthcare-cost
 
 5.3 Healthcare Cost and Utilization in Wisconsin Hospitals
 
+## 6. Finanzas
+
+6.1 Reporte de Beneficios
+
+6.2 Reporte de Ventas 
+
+6.3 Metricas de Gestion de Ventas
+
+6.4 Cuentas por Cobrar
+

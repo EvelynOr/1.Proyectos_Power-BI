@@ -16,4 +16,6 @@
 
 2.2 Consumer Demand Warehouse
 
-    https://blog.enterprisedna.co/creating-a-consumer-goods-sales-report-in-power-bi/
+   https://blog.enterprisedna.co/creating-a-consumer-goods-sales-report-in-power-bi/
+
+   

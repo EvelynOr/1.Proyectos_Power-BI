@@ -22,14 +22,14 @@
 ## 3. Seguridad
 
 3.1 Hechos Delictivos en Guatemala 2017 - 2021
-    
-    Datos del https://www.ine.gob.gt/
 
+      Datos de https://www.ine.gob.gt/ine/
+    
      
 3.2 Fatal Police Shootings
 
-    Monthly Data Challenge by Data In Motion, LLC anda data from 
+    Monthly Data Challenge by Data In Motion, LLC
     
-    https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
+    data from https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
  
 

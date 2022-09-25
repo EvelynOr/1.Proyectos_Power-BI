@@ -1,5 +1,7 @@
 # Proyectos-Power-BI
 
+Se detalla los reportes realizados en PBI por tema. Cada uno de los archivos están enumerados y aparecen en el mismo orden en el área de files.
+
 ## 1. Comida
 
 1.1 Maven Restaurant Challenge

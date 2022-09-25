@@ -33,3 +33,14 @@ Monthly Data Challenge by Data In Motion, LLC. Data from The Washington Post
    https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
   
 
+## 4. Recursos Humanos
+
+4.1 Algunos Indicadores de Recursos Humanos Parte I
+
+https://github.com/itsmecevi/human-resources-sample
+
+4.2 Estructura para Informe de Recursos Humanos
+
+4.3 Resumen del Empleado
+
+4.4 Employee Turn Over

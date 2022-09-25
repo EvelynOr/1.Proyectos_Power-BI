@@ -23,13 +23,13 @@
 
 3.1 Hechos Delictivos en Guatemala 2017 - 2021, datos del INE
 
-     https://www.ine.gob.gt/ine/
+   https://www.ine.gob.gt/ine/
     
      
 3.2 Fatal Police Shootings
 
     Monthly Data Challenge by Data In Motion, LLC. Data from The Washington Post
-    
-    https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
- 
+   
+   https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
+  
 

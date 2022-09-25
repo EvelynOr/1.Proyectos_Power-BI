@@ -44,3 +44,15 @@ https://github.com/itsmecevi/human-resources-sample
 4.3 Resumen del Empleado
 
 4.4 Employee Turn Over
+
+
+## 5. Medicina / Salud
+
+5.1 Encuesta de costos hospitalarios realizada por la Agencia de Atención Médica de EE. UU.
+
+https://www.kaggle.com/datasets/ravichaubey1506/healthcare-cost
+
+5.2 Caracteristicas de los pacientes y costos de hospitalizacion
+
+5.3 Healthcare Cost and Utilization in Wisconsin Hospitals
+
